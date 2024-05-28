@@ -5,3 +5,6 @@ Takes a big Excel file and chops it up in to smaller ones. It's a simple little 
 python3 excel_splitter.py large_excel_file.xlsx 10000
 
 (where 10000 are the number of rows).
+
+# Dependencies
+Needs the pandas py module. pip install pandas
